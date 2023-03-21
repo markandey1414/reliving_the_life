@@ -1,0 +1,7 @@
+opencv-python
+cmake
+dlib
+numpy
+geocoder
+geopy
+requests
