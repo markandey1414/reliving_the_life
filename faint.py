@@ -26,8 +26,8 @@ def euclidean_distance(point1, point2):
 def Faint():
     while True:
         flag = 0
-
         # read frame from camera
+        
         ret, frame = cap.read()
 
         # detect face landmarks using dlib
