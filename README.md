@@ -1,4 +1,4 @@
-# Reliving the Life
+# Abhyuday
 
 The system consists of 2 phases, detection of any dizziness, anxiety by observing the physical movement of the person. And then if something severe turns out, stopping the vehicle in time and informing the concerned authorities (hospitals, police - if accident happens - etc.).
 Our goal is to increase the probability of survival of the stricken. If we are able to stop the manual (NOT Autonomous) vehicle before mishap happens, in addition to if we inform the concerned authorities about their critical situation (if any) within the given time, it gives us a great margin of difference. And that's what we are seeking... to make a difference!
