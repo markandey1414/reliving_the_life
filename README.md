@@ -24,4 +24,6 @@ A tool similar to Postman can be used to handle the requests and see the JSON re
 Here you have the very basic idea of how to create the API.
 For more references, you may click here: https://www.geeksforgeeks.org/how-to-create-a-basic-api-using-django-rest-framework/
 
+The tkinter UI folder contains some additional features on improving the net user exerience like the emergency alarm, asking interative questions from the user.
+
 As and when the need to change/delete/update the code arises, it will be taken care of via Open Source Contributions. We would love to hear all the suggestions from you. Please make a fork of this branch and experiment with it individually.
